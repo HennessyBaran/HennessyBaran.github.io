@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 612">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Outfit-Medium, Outfit;
+        font-size: 30.94px;
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        fill: #e2e2e2;
+      }
+
+      .cls-3 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        fill: #f26232;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="131.31" y="278.11" width="569.68" height="100.88" rx="50.44" ry="50.44"/>
+  <rect class="cls-8" x="423.14" y="294.92" width="263.98" height="67.26" rx="33.63" ry="33.63"/>
+  <text class="cls-1"><tspan class="cls-7" x="224.93" y="339.86">P</tspan><tspan x="243.36" y="339.86">IC</tspan><tspan class="cls-3" x="272.76" y="339.86">K</tspan><tspan x="291.32" y="339.86">-U</tspan><tspan class="cls-4" x="326.93" y="339.86">P</tspan></text>
+  <text class="cls-1" transform="translate(482.76 339.9)"><tspan x="0" y="0">DELIVE</tspan><tspan class="cls-5" x="106.21" y="0">R</tspan><tspan class="cls-6" x="123.97" y="0">Y</tspan></text>
+</svg>

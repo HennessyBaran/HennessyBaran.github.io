@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 612">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Outfit-SemiBold, Outfit;
+        font-size: 35.34px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        fill: #f26233;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="93.55" y="284.26" width="572.31" height="67.32" rx="33.66" ry="33.66"/>
+  <text class="cls-1"><tspan class="cls-7" x="263.71" y="331.76">A</tspan><tspan x="288.7" y="331.76">DD</tspan><tspan class="cls-4" x="341.5" y="331.76"> </tspan><tspan class="cls-6" x="347.83" y="331.76">T</tspan><tspan x="368.61" y="331.76">O </tspan><tspan class="cls-3" x="403.78" y="331.76">C</tspan><tspan class="cls-8" x="427.38" y="331.76">A</tspan><tspan class="cls-5" x="452.37" y="331.76">R</tspan><tspan class="cls-4" x="473.47" y="331.76">T</tspan></text>
+</svg>

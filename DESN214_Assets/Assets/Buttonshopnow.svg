@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 612">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Outfit-SemiBold, Outfit;
+        font-size: 35.34px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        fill: #f26233;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="118.51" y="250.19" width="572.31" height="67.32" rx="33.66" ry="33.66"/>
+  <text class="cls-1"><tspan x="309.7" y="297.69">SHO</tspan><tspan class="cls-3" x="383.57" y="297.69">P</tspan><tspan x="404.7" y="297.69" xml:space="preserve"> N</tspan><tspan class="cls-4" x="437.29" y="297.69">O</tspan><tspan x="464.57" y="297.69">W</tspan></text>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 612">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Outfit-SemiBold, Outfit;
+        font-size: 38.6px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <rect x="138.08" y="285.95" width="515.85" height="90.82" rx="45.41" ry="45.41"/>
+  <text class="cls-1" transform="translate(362.87 344.51)"><tspan class="cls-2" x="0" y="0">P</tspan><tspan x="22.93" y="0">ay</tspan></text>
+</svg>
